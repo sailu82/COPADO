@@ -169,6 +169,7 @@
     <sharingModel>Private</sharingModel>
     <visibility>Public</visibility>
     <fields>
+	
         <fullName>Password__c</fullName>
         <externalId>false</externalId>
         <label>Password</label>
